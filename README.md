@@ -6,7 +6,7 @@
 
 ## Organization & Mission
 
-**Campfire Music Foundation** is a nonprofit startup dedicated to creating a fair-compensation streaming and discovery ecosystem for independent musicians. 
+[**Campfire Music Foundation**](https://www.cfmusic.org/) is a nonprofit startup dedicated to creating a fair-compensation streaming and discovery ecosystem for independent musicians. 
 
 Traditional music streaming platforms pay fractions of a cent per stream, heavily favoring mega-label artists while leaving grassroots creators struggling to sustain their careers. Campfire is built on an artist-first financial model, combining high-fidelity streaming, direct listener support, and transparent analytics so creators keep a meaningful share of their revenue.
 
